@@ -6,7 +6,7 @@ namespace Webstack\ApiPlatformUuidFilterBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class ApiPlatformUuidFilterBundle extends Bundle
+class WebstackApiPlatformUuidFilterBundle extends Bundle
 {
 
 }
